@@ -1,4 +1,5 @@
 fn main() {
+<<<<<<< HEAD
     let number = 7;
 
     if number < 5 {
@@ -31,4 +32,7 @@ fn main() {
     } else {
         "six"
     }*/
+=======
+    println!("Hello, world!");
+>>>>>>> master
 }
